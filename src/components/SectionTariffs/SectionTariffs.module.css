@@ -1,0 +1,248 @@
+.sectionTariffs {
+    background: linear-gradient(180deg, #0E112D 50%, rgba(14, 17, 45, 0) 100%);
+    height: 100%;
+    background-color: #0E112D;
+    padding-top: 36px;
+    padding-bottom: 103px;
+}
+.sectionTariffsTitle {
+    text-align: center;
+    padding-bottom: 90px;
+}
+.sectionTariffsTitleText {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+}
+.sectionTariffsTitleButtonAndroid {
+    background: #564FFF;
+    border-radius: 5px;
+    padding: 19px 59px;
+    margin-right: 18px;
+}
+.sectionTariffsTitleButtonAndroidText {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.sectionTariffsTitleButtonIos {
+    background: rgba(86, 79, 255, 0.25);
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+    padding: 19px 73px;
+}
+.sectionTariffsTitleButtonIosText {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.sectionTariffsIcon {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.sectionTariffsIconAndroidDefault{
+    margin-right: 309px;
+}
+.sectionTariffsIconAndroidNormal {
+    margin-right: 288px;
+}
+.sectionTariffsIconAndroid {
+    padding-right: 17px;
+}
+.sectionTariffsCard {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.sectionTariffsCardDefault {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(180deg, #1E2242 0%, rgba(30, 34, 66, 0) 100%);
+    width: 20.5%;
+}
+.sectionTariffsCardDefaultTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FFFFFF;
+    padding-top: 23px;
+    padding-bottom: 16px;
+}
+.sectionTariffsCardDefaultTitleListLi {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    list-style: disc;
+    margin-bottom: 2px;
+}
+.sectionTariffsCardDefaultTitleListLiColor {
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.sectionTariffsCardDefaultTitlePrice {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    padding-top: 65px;
+    padding-bottom: 9px;
+}
+.sectionTariffsCardDefaultTitleDays {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #A7A7C8;
+    padding-bottom: 31px;
+}
+.sectionTariffsCardDefaultTitleButton {
+    background: linear-gradient(106.14deg, #18BAFF 20.27%, #564FFF 78.28%);
+    border-radius: 5px;
+    padding: 27px 85px;
+}
+.sectionTariffsCardDefaultTitleButtonText {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    max-width: 155px;
+}
+.sectionTariffsCardNormal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(180deg, #1E2242 0%, rgba(30, 34, 66, 0) 100%);
+    margin-right: 14px;
+    margin-left: 14px;
+}
+.sectionTariffsCardNormalTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FFB800;
+    padding-top: 23px;
+    padding-bottom: 16px;
+}
+.sectionTariffsCardNormalTitleList {
+    margin-bottom: 35px;
+}
+.sectionTariffsCardNormalTitleListLi {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    list-style: disc;
+    color: #A7A7C8;
+    margin-bottom: 3.3px;
+}
+.sectionTariffsCardNormalTitleListLiColor {
+    color: #FFB800;
+    font-weight: bold;
+}
+.sectionTariffsCardNormalTitlePrice {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+.sectionTariffsCardNormalTitleDays {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #FFB800;
+    margin-top: 10px;
+    margin-bottom: 31px;
+}
+.sectionTariffsCardNormalTitleButton {
+    background: linear-gradient(106.14deg, #18BAFF 20.27%, #564FFF 78.28%);
+    border-radius: 5px;
+    padding: 27px 85px;
+}
+.sectionTariffsCardNormalTitleButtonText {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.sectionTariffsCardUltra {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(180deg, #1E2242 0%, rgba(30, 34, 66, 0) 100%);
+}
+.sectionTariffsCardUltraTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FF2828;
+    padding-top: 20px;
+    padding-bottom: 16px;
+}
+.sectionTariffsCardUltraTitleList {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    padding-bottom: 16px;
+}
+.sectionTariffsCardUltraTitleListLi {
+    padding-bottom: 1.5px;
+}
+.sectionTariffsCardUltraTitleListLiColor {
+    color: #FF2828;
+    font-weight: bold;
+}
+.sectionTariffsCardUltraTitlePrice {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    padding-top: 16px;
+    color: #FFFFFF;
+}
+.sectionTariffsCardUltraTitleDays {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #FF2828;
+    padding-bottom: 31px;
+    padding-top: 13px;
+}
+.sectionTariffsCardUltraTitleButton {
+    background: linear-gradient(106.14deg, #18BAFF 20.27%, #564FFF 78.28%);
+    border-radius: 5px;
+    padding: 27px 85px;
+}
+.sectionTariffsCardUltraTitleButtonText {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.sectionTariffsStar {
+    position: absolute;
+    right: 270px;
+}

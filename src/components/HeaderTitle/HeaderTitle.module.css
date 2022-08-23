@@ -1,0 +1,53 @@
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 46px;
+    max-width: 1360px;
+    margin: 0 auto;
+}
+.logo {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+.logoLink {
+    color: #fff;
+}
+.logoSPN {
+    color: #18BAFF ;
+}
+.socialButton {
+
+}
+.telegram {
+    background-color: #564FFF;
+    padding: 13px 22px;
+    border-radius: 5px;
+    border-style: none;
+    margin-right: 20px;
+}   
+.buttonNameTelegram {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.cabinet {
+    padding: 13px 20px;
+    background: rgba(86, 79, 255, 0.15);
+    border: 1px solid #564FFF;
+    border-radius: 5px;
+}
+
+.buttonNameCabinet {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;
+    color: #fff;
+}

@@ -1,0 +1,103 @@
+.sectionAndroid {
+    background: linear-gradient(180deg, #0E112D 50%, rgba(14, 17, 45, 0) 100%);
+    height: 100%;
+    background-color: #0E112D;
+    padding-top: 60px;
+    padding-bottom: 55px;
+}
+.sectionAndroidTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.sectionAndroidWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1361px;
+    margin: 0 auto;
+}
+.sectionAndroidMobile {
+    display: flex;
+    
+}
+.sectionAndroidMobileSamsung {
+    height: 95%;
+}
+.sectionAndroidMobileFront {
+    position: absolute;
+    left: 435px;
+    margin-top: 15px;
+    mix-blend-mode: screen;
+}
+.sectionAndroidTextBlock {
+    max-width: 690px;
+    padding-left: 152px;
+    margin-top: 30px;
+}
+.sectionAndroidTextBlockTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 41px;
+    color: #FFFFFF;
+    margin-bottom: 11px;
+}
+.sectionAndroidTextBlockTitleParagraph {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    margin-bottom: 21px;
+}
+.sectionAndroidTextBlockFunction {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-bottom: 11px;
+}
+.sectionAndroidTextBlockFunctionList {
+    margin-left: 20px;
+}
+.sectionAndroidTextBlockFunctionListLi {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    list-style: disc;
+    margin-bottom: 5px;
+}
+.sectionAndroidButtonBlock {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.sectionAndroidButtonBlockBtn {
+    background: #564FFF;
+    border-radius: 5px;
+    padding: 19px 65px;
+}
+.sectionAndroidButtonBlockBtn span {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+.sectionAndroidButtonBlockParagraph {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #A7A7C8;
+    margin-left: 24px;
+    max-width: 289px;
+}

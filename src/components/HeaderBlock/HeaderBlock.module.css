@@ -1,0 +1,81 @@
+.HeaderBlockWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1360px;
+    margin: 0 auto;
+    margin-top: 54px;
+}
+.headerBlockNewChit {
+    max-width: 556px;
+}
+.HeaderBlockTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 56px;
+    line-height: 72px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+    max-width: 556px;
+}
+.HeaderBlockTitleSpn {
+    color: #18BAFF ;
+}
+.HeaderBlockParagraph {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #A7A7C8;
+    max-width: 563px;
+}
+.numbersWrapper {
+    display: flex;
+    flex-direction: row;
+    margin-top: 26px;
+}
+.numberOfPlayers {
+    max-width: 208px;
+    margin-right: 47px;
+}
+.numberOfPlayersTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+    
+}
+.numberOfPlayersParagraph {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.quantityWithCheatTitle {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+.quantityWithCheatParagraph {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    background: linear-gradient(119.36deg, #18BAFF 19.35%, #4500D9 126.51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.headerBlockImage {
+    width: 774px;
+}
